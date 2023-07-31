@@ -19,7 +19,7 @@
 
 * 🐍 Python Enthusiast 
 * 🧩 Problem Solver
-* 🥷 Code Ninjar
+* 🥷 Code Ninja
 * 🔧 Open Source Advocate
 * 📚 Lifelong Learner
 ---
