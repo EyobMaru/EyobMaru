@@ -44,7 +44,7 @@
 
 ### 📊 Github Status
 
-<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadane&show_icons=true&locale=en&layout=compact" alt="akuadane" /></p>
+<p><img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadane&show_icons=true&locale=en&layout=compact" alt="akuadane" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobmaru"><p> 
 
 
