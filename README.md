@@ -44,8 +44,8 @@
 
 ### 📊 Github Status
 
-<p><img align="left" width="300"height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadane&show_icons=true&locale=en&layout=compact" alt="akuadane" /></p>
-<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobmaru"><p> 
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadane&show_icons=true&locale=en&layout=compact" alt="akuadane" /></p>
+<p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobmaru"><p> 
 
 
 
